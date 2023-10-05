@@ -413,8 +413,9 @@ section {
   font-weight: 600;
   line-height: normal;
   margin: 0;
+  margin-left: 25%;
   min-height: 60px;
-  width: 20px;
+  width: 50%;
   min-width: 0;
   outline: none;
   padding: 10px 18px;
@@ -424,7 +425,6 @@ section {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: 100%;
   will-change: transform;
 }
 
